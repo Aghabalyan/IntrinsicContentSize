@@ -3,4 +3,4 @@
 * **Language:** Swift
 * **Description:**
 
-<img src="https://user-images.githubusercontent.com/4967822/62030423-1726ca00-b1f6-11e9-869b-29393146d43b.png" width="250">
+<img width="349" alt="Screen Shot 2022-03-23 at 14 18 10" src="https://user-images.githubusercontent.com/4967822/159677575-7f379b26-758a-43b0-b303-3053d708dd90.png">
